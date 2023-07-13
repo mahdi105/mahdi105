@@ -3,9 +3,15 @@
 
 - 🌱 I’m currently learning **Next.js, Redux, Typscript**
 
+- 👨‍💻 All of my projects are available at [https://mahdi-hasan-portfolio.web.app](https://mahdi-hasan-portfolio.web.app)
+
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **mahdihasan10599@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11H-ZXmu7UVZXYwVIylBQkjMMZnNypM8z/view?usp=sharing](https://drive.google.com/file/d/11H-ZXmu7UVZXYwVIylBQkjMMZnNypM8z/view?usp=sharing)
+
+- ⚡ Fun fact **Quick Learner, Love to learn new technologies and MERN Stack Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi105&show_icons=true&locale=en" alt="mahdi105" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi105&" alt="mahdi105" /></p>
-
